@@ -1,5 +1,5 @@
-📊 Week 3 Internship Project
-NumPy and Pandas for Data Manipulation
+**📊 Week 3 Internship Project
+**NumPy and Pandas for Data Manipulation
 
 This project is part of my Python Data Analysis Internship (Week-3) task.
 The goal of this project is to demonstrate data cleaning, manipulation, and analysis using NumPy and Pandas, two essential libraries used by data analysts and data scientists.
@@ -136,4 +136,5 @@ Week3_Internship_Report.docx
 👩‍💻 Author
 
 Neha Beldar
+
 Python Data Analysis Intern
