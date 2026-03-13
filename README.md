@@ -1,84 +1,22 @@
-**📊 Week 3 Internship Project
-**NumPy and Pandas for Data Manipulation
+📊 Week 3 – NumPy and Pandas for Data Manipulation
+📌 Internship Task
 
-This project is part of my Python Data Analysis Internship (Week-3) task.
-The goal of this project is to demonstrate data cleaning, manipulation, and analysis using NumPy and Pandas, two essential libraries used by data analysts and data scientists.
+This project is part of my Python Data Analysis Internship – Week 3.
+The focus of this task is to learn and apply NumPy and Pandas libraries for data manipulation, data cleaning, and basic data analysis.
 
-The project processes a dataset containing product sales information, cleans the data, and performs statistical and category-wise analysis.
+NumPy is used for numerical operations and array processing, while Pandas is used for handling structured datasets such as CSV files.
 
-📁 Project Structure
-week3_numpy_pandas_internship
-│
-├── data
-│   └── sales_data.csv
-│
-├── data_analysis_project.py
-│
-├── README.md
-│
-└── Week3_Internship_Report.docx
-🗂 Dataset Description
+🎯 Project Objective
 
-The dataset sales_data.csv contains information about product sales.
+The objective of this task is to:
 
-Column	Description
-Product	Name of the product
-Category	Product category
-Sales	Sales amount
+Understand NumPy arrays and mathematical operations
 
-The dataset intentionally includes:
+Learn Pandas DataFrame operations
 
-Duplicate records
+Perform data cleaning and preprocessing
 
-Missing values
-
-Multiple product categories
-
-This helps demonstrate real-world data cleaning techniques.
-
-🧹 Data Cleaning Process
-
-The following steps are performed in the project:
-
-Loading the dataset using Pandas
-
-Removing missing values
-
-Removing duplicate rows
-
-Preparing data for analysis
-
-🔢 NumPy Operations
-
-NumPy is used for performing numerical operations on sales data:
-
-Convert sales column to NumPy array
-
-Calculate:
-
-Average sales
-
-Maximum sales
-
-Minimum sales
-
-Total sales
-
-These operations demonstrate efficient numerical computation using NumPy.
-
-📈 Data Analysis with Pandas
-
-Pandas is used to analyze the dataset and extract insights:
-
-Category-wise Analysis
-
-Average sales are calculated for each product category.
-
-Product-wise Summary
-
-Total sales for each product are computed.
-
-These operations use Pandas GroupBy functionality, which is commonly used in real data analysis tasks.
+Analyze sales data using aggregation and grouping techniques
 
 🛠 Technologies Used
 
@@ -90,9 +28,102 @@ Pandas
 
 VS Code
 
-🎯 Key Concepts Learned
+📂 Project Structure
+week3_numpy_pandas_internship
+│
+├── data
+│   └── sales_data.csv
+│
+├── data_analysis_project.py
+│
+├── README.md
+│
+└── Week3_Internship_Report.docx
+📊 Dataset Description
 
-Through this project, the following concepts were practiced:
+The dataset sales_data.csv contains information about product sales.
+
+Column	Description
+Product	Name of the product
+Category	Category of the product
+Sales	Sales amount
+
+The dataset includes:
+
+Duplicate records
+
+Missing values
+
+These issues are handled during the data cleaning process.
+
+🧹 Data Cleaning Steps
+
+The Python script performs the following operations:
+
+Load Dataset
+The dataset is loaded using Pandas.
+
+Remove Missing Values
+Rows containing missing values are removed.
+
+Remove Duplicate Records
+Duplicate rows are removed to ensure accurate data.
+
+Prepare Data for Analysis
+Cleaned data is used for further analysis.
+
+🔢 NumPy Operations
+
+NumPy is used for performing numerical analysis on the sales data.
+
+The following statistics are calculated:
+
+Average Sales
+
+Maximum Sales
+
+Minimum Sales
+
+Total Sales
+
+These calculations demonstrate the use of NumPy arrays and mathematical operations.
+
+📈 Data Analysis with Pandas
+
+Pandas is used to perform data aggregation and grouping.
+
+Category-wise Sales Analysis
+
+Average sales are calculated for each product category.
+
+Product-wise Sales Summary
+
+Total sales for each product are computed using groupby operations.
+
+▶️ How to Run the Project
+
+1️⃣ Install required libraries
+
+pip install numpy pandas
+
+2️⃣ Navigate to the project folder
+
+cd week3_numpy_pandas_internship
+
+3️⃣ Run the Python script
+
+python data_analysis_project.py
+🖥 Example Output
+Average Sales: 20571
+Maximum Sales: 55000
+Minimum Sales: 5000
+Total Sales: 144000
+
+The program also displays category-wise and product-wise sales analysis.
+
+📚 Concepts Learned
+
+Through this project, I learned:
 
 NumPy
 
@@ -114,21 +145,9 @@ Handling missing values
 
 Removing duplicates
 
-Data grouping and aggregation
+Data aggregation using groupby
 
-📚 Internship Task Objective
-
-The objective of this task was to:
-
-Understand NumPy arrays and operations
-
-Learn Pandas data manipulation
-
-Perform data cleaning and aggregation
-
-Apply data analysis techniques on a dataset
-
-📄 Report
+📄 Internship Report
 
 A detailed explanation of the project and concepts learned is available in:
 
@@ -136,5 +155,4 @@ Week3_Internship_Report.docx
 👩‍💻 Author
 
 Neha Beldar
-
 Python Data Analysis Intern
