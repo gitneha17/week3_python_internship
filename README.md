@@ -28,7 +28,7 @@ Pandas
 
 VS Code
 
-📂 Project Structure
+**📂 Project Structure**
 week3_numpy_pandas_internship
 │
 ├── data
@@ -40,7 +40,7 @@ week3_numpy_pandas_internship
 │
 └── Week3_Internship_Report.docx
 
-📊 Dataset Description
+**📊 Dataset Description**
 The dataset sales_data.csv contains information about product sales.
 
 Column	Description
@@ -156,4 +156,5 @@ Week3_Internship_Report.docx
 
 Neha Beldar
 Python Data Analysis Intern
+
 
