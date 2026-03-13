@@ -1,12 +1,12 @@
-📊 Week 3 – NumPy and Pandas for Data Manipulation
-📌 Internship Task
+**📊 Week 3 – NumPy and Pandas for Data Manipulation
+📌 Internship Task**
 
 This project is part of my Python Data Analysis Internship – Week 3.
 The focus of this task is to learn and apply NumPy and Pandas libraries for data manipulation, data cleaning, and basic data analysis.
 
 NumPy is used for numerical operations and array processing, while Pandas is used for handling structured datasets such as CSV files.
 
-🎯 Project Objective
+**🎯 Project Objective**
 
 The objective of this task is to:
 
@@ -18,7 +18,7 @@ Perform data cleaning and preprocessing
 
 Analyze sales data using aggregation and grouping techniques
 
-🛠 Technologies Used
+**🛠 Technologies Used**
 
 Python
 
@@ -39,8 +39,8 @@ week3_numpy_pandas_internship
 ├── README.md
 │
 └── Week3_Internship_Report.docx
-📊 Dataset Description
 
+📊 Dataset Description
 The dataset sales_data.csv contains information about product sales.
 
 Column	Description
@@ -156,3 +156,4 @@ Week3_Internship_Report.docx
 
 Neha Beldar
 Python Data Analysis Intern
+
