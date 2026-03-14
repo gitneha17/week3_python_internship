@@ -27,19 +27,7 @@ Analyze sales data using grouping and aggregation
 
 Gain practical experience with real-world datasets
 
-📂 Project Structure
-week3_numpy_pandas_internship
-│
-├── data
-│   └── sales_data.csv
-│
-├── data_analysis_project.py
-│
-├── README.md
-│
-└── Week3_Internship_Report.docx
-
-📊 Dataset Description
+**📊 Dataset Description**
 
 The dataset sales_data.csv contains information about product sales.
 
@@ -51,7 +39,6 @@ Sales	Sales amount
 The dataset may contain:
 
 Missing values
-
 Duplicate records
 
 These issues are handled during the data cleaning process.
