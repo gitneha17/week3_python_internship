@@ -1,18 +1,19 @@
-📊 Week 3 Internship Task
+**📊 Week 3 Internship Task**
 NumPy and Pandas for Data Manipulation
-👩‍💻 Intern Details
 
-Name: Neha Kumavat
-Internship: Python Data Analysis Internship
-Week: Week 3
+**👩‍💻 Intern Name:** Neha Beldar
 
-📌 Task Overview
+**Internship:** Python Data Analysis Internship
+
+**Week:** Week 3
+
+**📌 Task Overview**
 
 In Week 3 of the internship, the focus was on learning NumPy and Pandas, two powerful Python libraries used for data analysis and data manipulation.
 
 The task involved working with a sales dataset, performing data cleaning, and analyzing the dataset using various statistical and aggregation techniques.
 
-🎯 Objectives
+**🎯 Objectives**
 
 The main objectives of this task were:
 
@@ -37,6 +38,7 @@ week3_numpy_pandas_internship
 ├── README.md
 │
 └── Week3_Internship_Report.docx
+
 📊 Dataset Description
 
 The dataset sales_data.csv contains information about product sales.
